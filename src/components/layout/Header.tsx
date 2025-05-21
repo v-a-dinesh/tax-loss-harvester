@@ -28,7 +28,11 @@ const Header: React.FC = () => {
     <div>
       {/* KoinX logo */}
       <div className="py-4">
-        <img src="public/assets/Logo.jpg" alt="KoinX Logo" className="h-8" />
+        <img
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3g6sUdIrEyVHp5x7Dcb8SiA4DRCu_1UcT_w&s"
+          alt="KoinX Logo"
+          className="h-8"
+        />
       </div>
 
       {/* Separator line */}
