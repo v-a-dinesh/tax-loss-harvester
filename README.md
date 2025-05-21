@@ -26,12 +26,12 @@ A responsive React application that helps cryptocurrency investors visualize and
 - **Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices
 - **Dark/Light Mode**: Toggle between dark and light themes for comfortable viewing
 - **Realistic Mock Data**: Uses realistic cryptocurrency market data to demonstrate functionality
-
+![alt text](image.png)
 ## Demo
 
-Check out the live demo: [Tax Loss Harvester Demo](https://your-deployment-url.netlify.app)
+Check out the live demo: [Tax Loss Harvester Demo](https://tax-loss-harvester-xi.vercel.app/)
 
-![Demo Animation](https://your-gif-url-here.gif)
+![Demo Animation](https://tax-loss-harvester-xi.vercel.app/)
 
 ## Tech Stack
 
@@ -91,7 +91,7 @@ src/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/tax-loss-harvester.git
+   git clone https://github.com/v-a-dinesh/tax-loss-harvester.git
    cd tax-loss-harvester
    ```
 
@@ -201,10 +201,6 @@ These are implemented using promises that resolve with mock data, simulating rea
 
 ---
 
-## License
 
-[MIT License](LICENSE)
-
----
 
 _Note: This project was created as a frontend demonstration and is not intended as financial advice. Always consult with a qualified tax professional before implementing tax strategies._
