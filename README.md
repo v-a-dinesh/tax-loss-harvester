@@ -27,6 +27,7 @@ A responsive React application that helps cryptocurrency investors visualize and
 - **Dark/Light Mode**: Toggle between dark and light themes for comfortable viewing
 - **Realistic Mock Data**: Uses realistic cryptocurrency market data to demonstrate functionality
 ![alt text](image.png)
+![alt text](image-1.png)
 ## Demo
 
 Check out the live demo: [Tax Loss Harvester Demo](https://tax-loss-harvester-xi.vercel.app/)
